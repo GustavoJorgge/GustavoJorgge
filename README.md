@@ -1,5 +1,5 @@
 # E ai, DEV!!👋🏽
-### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho GitHub!!:coffee:
+### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!!:coffee:
 ###### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Apaixonado por T.I  
 ###### Estou sempre tirando um tempinho para estudar e aprender novas skills da programação. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
 ###### Procurando atuar na área de Desenvolvimentou ou em Analise de testes (Q.A). <br/> Estou em processo de aprendizado✏️ toda ajuda sera bem vinda e estarei disposto a ouvir 🤗
