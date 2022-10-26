@@ -4,10 +4,11 @@
 ###### Estou sempre tirando um tempinho para estudar e aprender novas skills da programação. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
 ###### Procurando atuar na área de Desenvolvimentou ou em Analise de testes (Q.A). <br/> Estou em processo de aprendizado✏️ toda ajuda sera bem vinda e estarei disposto a ouvir 🤗
 
-###### -🌱Atualmente possuo conhecimento em 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" width="70" height="70"/> 
+###### -🌱Atualmente possuo conhecimento em: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> 
 
-###### - ✏️Atualmente estou aprofundando ...
+
+###### - ✏️Estou aprofundando em:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://w7.pngwing.com/pngs/1016/373/png-transparent-microsoft-sql-server-computer-icons-sql-server-express-others.png" width="70" height="70"/> 
 
 ###### - 📫 Como entrar em contato comigo:
