@@ -9,7 +9,8 @@
 
 
 ###### - ✏️Estou aprofundando em:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://w7.pngwing.com/pngs/1016/373/png-transparent-microsoft-sql-server-computer-icons-sql-server-express-others.png" width="70" height="70"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://w7.pngwing.com/pngs/1016/373/png-transparent-microsoft-sql-server-computer-icons-sql-server-express-others.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/> 
+
 
 ###### - 📫 Como entrar em contato comigo:
 
