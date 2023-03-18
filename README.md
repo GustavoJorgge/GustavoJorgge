@@ -1,8 +1,8 @@
 # E ai, DEV!!👋🏽
 ### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!!:coffee:
-###### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Apaixonado por T.I  <br/> Adoro pensar em soluções de problemas e implementar/gerar novas ideias em que possa agregar em um contexto em geral.
-###### Estou sempre tirando um tempinho para estudar e aprender novas skills da programação. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
-###### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
+#### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Apaixonado por T.I  <br/> Cargo atual: Analista de Suporte de Sistemas - Jr💻 <br/> Adoro pensar em soluções de problemas e implementar/gerar novas ideias em que possa agregar em um contexto em geral.
+##### Estou sempre tirando um tempinho para estudar e aprender novas Stacks da programação e ampliar minhas Skils. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
+##### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
 
 ###### -🌱Atualmente possuo conhecimento em: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/> 
