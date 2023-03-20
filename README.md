@@ -1,7 +1,8 @@
 # E ai, DEV!!👋🏽
 ### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!!:coffee:
-#### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Analista de Suporte de Sistemas - Jr<br/> Apaixonado por T.I   <br/> Adoro pensar em soluções de problemas e implementar/gerar novas ideias em que possa agregar em um contexto em geral.
-##### Estou sempre tirando um tempinho para estudar e aprender novas Stacks da programação e ampliar minhas Skils. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
+#### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Analista de Suporte de Sistemas - Jr<br/>Monitor de Algoritmos de Programação - Centro Universitario Newton Paiva 👨🏽‍🎓🎓 
+
+##### Apaixonado por T.I <br/> Adoro pensar em soluções de problemas e implementar/gerar novas ideias em que possa agregar em um contexto em geral. Estou sempre tirando um tempinho para estudar e aprender novas Stacks da programação e ampliar minhas Skils. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
 ##### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
 
 ##### -🌱Atualmente possuo conhecimento em: 
