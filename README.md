@@ -6,11 +6,11 @@
 ##### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
 
 ##### -🌱Atualmente possuo conhecimento em: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/> <img src="https://w7.pngwing.com/pngs/1016/373/png-transparent-microsoft-sql-server-computer-icons-sql-server-express-others.png" width="70" height="70"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="70" height="70"/>
 
 
 ##### - ✏️Estou aprofundando em:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://w7.pngwing.com/pngs/1016/373/png-transparent-microsoft-sql-server-computer-icons-sql-server-express-others.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/> <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/> <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="60" height="60"/> 
 
 
 
