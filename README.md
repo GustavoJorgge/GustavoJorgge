@@ -1,5 +1,4 @@
-# E ai, DEV!!👋🏽 <text align="right">  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=GustavoJorgge&color=ff69b4" alt="Profile Views"> </div>
-
+# E ai, DEV!!👋🏽
 ### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!!:coffee:
 #### Estou com 23 anos. <br/> Estudante de Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Analista de Suporte de Sistemas - Jr<br/>Monitor de Algoritmos de Programação - Centro Universitario Newton Paiva 🎓
 
