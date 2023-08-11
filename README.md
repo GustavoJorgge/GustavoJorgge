@@ -10,7 +10,7 @@
 
 
 ##### - ✏️Estou aprofundando em:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="60" height="60"/> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="60" height="60"/> <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="60" height="60"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65"/>  <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="65" height="65"/> <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="65" height="65"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="65" height="65"/> 
 
 
 
