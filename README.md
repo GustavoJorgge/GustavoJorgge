@@ -6,7 +6,7 @@
 ##### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
 
 ##### -🌱Atualmente possuo conhecimento em: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="70" height="70"/><img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="65" height="65"/><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65" height="65"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/25/25231.png" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/>  <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="70" height="70"/>  <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="65" height="65"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65" height="65"/>
 
 
 ##### - ✏️Estou aprofundando em:
