@@ -1,18 +1,44 @@
 # E ai, DEV!!👋🏽
+
 ### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!! :coffee:
-#### Estou com 25 anos. <br/> Graduado em Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Desenvolvedor Full Stack | VOKE<br/>Adicional: Já atuei como Monitor de Algoritmos de Programação - Centro Universitario Newton Paiva 🎓
 
-##### Apaixonado por T.I <br/> Adoro pensar em soluções de problemas e implementar/gerar novas ideias em que possa agregar em um contexto em geral. Estou sempre tirando um tempinho para estudar e aprender novas Stacks da programação e ampliar minhas Skils. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Back-end** e no momento é o foco para o meu aprendizado. 
-##### - Procurando atuar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
-
-##### -🌱Atualmente possuo conhecimento em: 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="70" height="70"/> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/c_original_logo_icon_146611.png" width="70" height="70"/> <img src="https://camo.githubusercontent.com/3caff20b9d32477d44b7fa152b6b442e3bb70eccc4105fae35997b68e993d70f/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f3733322f3733323139302e706e67" width="70" height="70"/> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="70" height="70"/>  <img src="https://cdn-icons-png.flaticon.com/512/29/29165.png" width="70" height="70"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" width="65" height="65"/>
+#### Estou com 25 anos. <br/> Pós Graduando em Desenvolvimento FullStack <br/>Graduado em Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Desenvolvedor Full Stack | VOKE<br/>
 
 
-##### - ✏️Estou aprofundando em:
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="65" height="65"/> <img src="https://static-00.iconduck.com/assets.00/spring-icon-256x256-2efvkvky.png" width="65" height="65"/> <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" width="65" height="65"/>  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="65" height="65"/> <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="65" height="65"/> 
+##### Apaixonado por T.I <br/> Sou uma pessoa que adora pensar em soluções de problemas e trazer novas ideias inovadoras de acordo com o cenario.<br/> Sempre que possivel participo de congressos e palestras, para me atualizar com novas ferramentas e métodologias, afim de oferecer a melhor solução para cada projeto. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Front-end** focando sempre no produto, usabilidade, performance e experiencia do usuario.
+
+##### - Busco me expecializar na área de Desenvolvimento. <br/> Estou em processo de aprendizado✏️ toda ajuda será bem vinda e estarei disposto a ouvir 🤗
 
 
+### Minhas Stacks:
+- Possuo conhecimento em: Java, Node.js, TypeScript, React, CSS, Cypress;
+- Possuo conhecimento em: Spring Framework, API Rest, Strapi, Marketing Cloud e FIGMA;
+- Experiência em Metodologias Ágeies (SCRUM) e Nuvem Azure.
+- Versionamento de Código com GIT.
+- Desenvolvimento de Testes Automatizados.
+
+### Habilidades Pessoais
+- Trabalho bem sucedido em um ambiente de equipe;
+- Capaz de seguir instruções e entregar resultados com qualidade;
+- Adaptalibilidade e Aprendizado Rápido;
+- Senso Crítico;
+
+
+#### - ✏️Atualmente estou aprofundando em:
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="65" height="65"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="90" height="65"/>
+<img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" width="65" height="65"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="65" height="65"/> <img src="https://img.icons8.com/fluent/512/docker.png" width="65" height="65"/>
+
+
+
+## Curiosidades:
+<li>Já atuei como Monitor de Algoritmos de Programação - Centro Universitario Newton Paiva 🎓
+</li> 
+<li>Hobby: Overlander, compartilhando aventuras no Instagram Skall Overland
+</li> 
+<li>Esportes: Volêi e Skate;
+</li> 
 
 
 ##### - 📫 Como entrar em contato comigo:
