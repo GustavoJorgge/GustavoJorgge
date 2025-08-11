@@ -2,7 +2,7 @@
 
 ### Meu nome é Gustavo Jorge. <br/>Seja bem vindo ao meu cantinho no GitHub!! :coffee:
 
-#### Estou com 25 anos. <br/> Pós Graduando em Desenvolvimento FullStack <br/>Graduado em Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Desenvolvedor Full Stack | VOKE<br/>
+#### Estou com 26 anos. <br/> Pós Graduando em Desenvolvimento FullStack <br/>Graduado em Analise e Desenvolvimento de Sistemas💻<br/> Cargo atual: Desenvolvedor Full Stack | VOKE<br/>
 
 
 ##### Apaixonado por T.I <br/> Sou uma pessoa que adora pensar em soluções de problemas e trazer novas ideias inovadoras de acordo com o cenario.<br/> Sempre que possivel participo de congressos e palestras, para me atualizar com novas ferramentas e métodologias, afim de oferecer a melhor solução para cada projeto. De tanto pesquisar e me informar, consegui me encontrar no desenvolvimento **Front-end** focando sempre no produto, usabilidade, performance e experiencia do usuario.
