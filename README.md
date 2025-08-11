@@ -11,11 +11,13 @@
 
 
 ### Minhas Stacks:
-- Possuo conhecimento em: Java, Node.js, TypeScript, React, CSS, Cypress;
-- Possuo conhecimento em: Spring Framework, API Rest, Strapi, Marketing Cloud e FIGMA;
-- Experiência em Metodologias Ágeies (SCRUM) e Nuvem Azure.
-- Versionamento de Código com GIT.
-- Desenvolvimento de Testes Automatizados.
+- Experiência com: Java, Node.js, TypeScript, React, CSS, Cypress, Tailwind CSS e Styled Components;
+- Conhecimento em: Spring Framework, APIs REST, Strapi, Salesforce Marketing Cloud e Figma;
+- Experiência com metodologias ágeis (SCRUM) e nuvem Azure (incluindo Azure DevOps);
+- Versionamento de código com Git;
+- Desenvolvimento de testes automatizados;
+- Práticas DevOps com AWS, Azure, Docker, Pulumi e GitHub Actions.
+
 
 ### Habilidades Pessoais
 - Trabalho bem sucedido em um ambiente de equipe;
