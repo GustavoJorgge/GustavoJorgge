@@ -28,7 +28,7 @@
 
 #### - ✏️Atualmente estou aprofundando em:
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="90" height="65"/> <img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" width="65" height="65"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="65" height="65"/> <img src="https://img.icons8.com/fluent/512/docker.png" width="65" height="65"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png" width="65" height="65"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width="90" height="65"/> <img src="https://images.icon-icons.com/2415/PNG/512/typescript_original_logo_icon_146317.png" width="65" height="65"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968342.png" width="65" height="65"/> <img src="https://img.icons8.com/fluent/512/docker.png" width="65" height="65"/> <img src="https://img.icons8.com/?size=512&id=33039&format=png" width="65" height="65"/>
 
 
 
